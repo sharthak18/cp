@@ -4,4 +4,9 @@ I have completed my SSC in 2020
 I have completed my HSC in 2022
 I have completed my BSC in 2027
 I have started my codeing from 2024
+<<<<<<< HEAD
 testing new thing
+=======
+I have completed my BSC in 2027/2026
+
+>>>>>>> efddd88bc13ec54ad3d00e78299d3c50cdb8d69e
